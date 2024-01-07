@@ -1,0 +1,64 @@
+2024-01-05 10:22:54.076 [info] update#setState idle
+2024-01-05 10:23:03.479 [info] Extension host with pid 20547 exited with code: 0, signal: unknown.
+2024-01-05 10:23:24.060 [info] update#setState checking for updates
+2024-01-05 10:23:24.117 [info] update#setState idle
+2024-01-05 10:33:46.631 [info] Extension host with pid 27315 exited with code: 0, signal: unknown.
+2024-01-05 10:33:46.634 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2024-01-05 10:33:46.634 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 27305]: crashed with code 15 and reason 'killed'
+2024-01-05 10:33:54.085 [info] Extension host with pid 27561 exited with code: 0, signal: unknown.
+2024-01-05 10:34:15.768 [info] Extension host with pid 27711 exited with code: 0, signal: unknown.
+2024-01-05 10:34:15.771 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2024-01-05 10:34:15.771 [error] [UtilityProcess id: 4, type: fileWatcher, pid: 27701]: crashed with code 15 and reason 'killed'
+2024-01-05 10:35:08.148 [info] Extension host with pid 28659 exited with code: 0, signal: unknown.
+2024-01-05 10:35:08.150 [error] [UtilityProcess id: 5, type: fileWatcher, pid: 28649]: crashed with code 15 and reason 'killed'
+2024-01-05 11:23:24.064 [info] update#setState checking for updates
+2024-01-05 11:23:24.170 [info] update#setState idle
+2024-01-05 12:23:24.066 [info] update#setState checking for updates
+2024-01-05 12:23:24.176 [info] update#setState idle
+2024-01-05 13:23:24.068 [info] update#setState checking for updates
+2024-01-05 13:23:24.259 [info] update#setState idle
+2024-01-05 14:23:24.070 [info] update#setState checking for updates
+2024-01-05 14:23:24.183 [info] update#setState idle
+2024-01-05 15:23:24.073 [info] update#setState checking for updates
+2024-01-05 15:23:24.196 [info] update#setState idle
+2024-01-05 16:23:24.075 [info] update#setState checking for updates
+2024-01-05 16:23:24.257 [info] update#setState idle
+2024-01-05 17:23:24.078 [info] update#setState checking for updates
+2024-01-05 17:23:24.185 [info] update#setState idle
+2024-01-05 18:23:24.080 [info] update#setState checking for updates
+2024-01-05 18:23:24.195 [info] update#setState idle
+2024-01-05 19:23:24.084 [info] update#setState checking for updates
+2024-01-05 19:23:24.191 [info] update#setState idle
+2024-01-05 20:23:24.086 [info] update#setState checking for updates
+2024-01-05 20:23:24.278 [info] update#setState idle
+2024-01-05 21:23:24.088 [info] update#setState checking for updates
+2024-01-05 21:23:24.191 [info] update#setState idle
+2024-01-05 22:23:24.090 [info] update#setState checking for updates
+2024-01-05 22:23:24.278 [info] update#setState idle
+2024-01-05 23:23:24.093 [info] update#setState checking for updates
+2024-01-05 23:23:24.205 [info] update#setState idle
+2024-01-06 00:23:24.097 [info] update#setState checking for updates
+2024-01-06 00:23:24.295 [info] update#setState idle
+2024-01-06 01:23:24.102 [info] update#setState checking for updates
+2024-01-06 01:23:24.211 [info] update#setState idle
+2024-01-06 02:23:24.105 [info] update#setState checking for updates
+2024-01-06 02:23:24.296 [info] update#setState idle
+2024-01-06 03:23:24.108 [info] update#setState checking for updates
+2024-01-06 03:23:24.295 [info] update#setState idle
+2024-01-06 04:23:24.111 [info] update#setState checking for updates
+2024-01-06 04:23:24.305 [info] update#setState idle
+2024-01-06 05:23:24.114 [info] update#setState checking for updates
+2024-01-06 05:23:24.307 [info] update#setState idle
+2024-01-06 06:23:24.117 [info] update#setState checking for updates
+2024-01-06 06:23:24.231 [info] update#setState idle
+2024-01-06 07:23:24.120 [info] update#setState checking for updates
+2024-01-06 07:23:24.303 [info] update#setState idle
+2024-01-06 08:23:24.123 [info] update#setState checking for updates
+2024-01-06 08:23:24.230 [info] update#setState idle
+2024-01-06 09:23:24.126 [info] update#setState checking for updates
+2024-01-06 09:23:24.318 [info] update#setState idle
+2024-01-06 10:23:24.128 [info] update#setState checking for updates
+2024-01-06 10:23:24.321 [info] update#setState idle
+2024-01-06 11:08:00.887 [info] Extension host with pid 7568 exited with code: 0, signal: unknown.
+2024-01-06 11:08:00.889 [error] [UtilityProcess id: 6, type: fileWatcher, pid: 7555]: crashed with code 15 and reason 'killed'
+2024-01-06 11:22:35.753 [info] Extension host with pid 20758 exited with code: 0, signal: unknown.

@@ -1,0 +1,22 @@
+00:00:00.199448 VirtualBox GUI VM Selector Window 7.0.12 r159484 linux.amd64 (Oct 17 2023 15:53:22) release log
+00:00:00.199449 Log opened 2024-01-05T16:59:57.962163000Z
+00:00:00.199450 Build Type: release
+00:00:00.199451 OS Product: Linux
+00:00:00.199451 OS Release: 6.6.7-artix1-1
+00:00:00.199452 OS Version: #1 SMP PREEMPT_DYNAMIC Thu, 14 Dec 2023 10:09:41 +0000
+00:00:00.199466 DMI Product Name: Z390 M GAMING
+00:00:00.199471 DMI Product Version: Default string
+00:00:00.199474 Firmware type: UEFI
+00:00:00.199920 Secure Boot: Disabled
+00:00:00.199942 Host RAM: 48110MB (46.9GB) total, 33099MB (32.3GB) available
+00:00:00.199944 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.199944 Process ID: 29205
+00:00:00.199944 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.199960 Qt version: 5.15.11
+00:00:00.200398 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.205053 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.540784 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1280x30 x 1280x1570
+00:00:00.571225 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:04.263118 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:00:22.011235 GUI: UICommon: Handling aboutToQuit request..
+00:00:22.746446 GUI: UICommon: aboutToQuit request handled!

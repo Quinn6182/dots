@@ -1,0 +1,36 @@
+2024-01-07 09:47:58.639 [info] Extension host with pid 62668 started
+2024-01-07 09:47:58.703 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-01-07 09:47:58.745 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-01-07 09:47:58.799 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-07 09:47:58.867 [info] Eager extensions activated
+2024-01-07 09:47:58.872 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-07 09:47:58.873 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-07 09:48:17.212 [info] Extension host terminating: renderer closed the MessagePort
+2024-01-07 09:48:17.218 [info] Extension host with pid 62668 exiting with code 0
+2024-01-07 09:48:17.702 [info] Extension host with pid 62878 started
+2024-01-07 09:48:17.702 [info] Skipping acquiring lock for /home/quinn/.config/Code/User/workspaceStorage/447c257afda9b16e30e90380fd9c99b5.
+2024-01-07 09:48:17.720 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-01-07 09:48:17.740 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-01-07 09:48:17.756 [info] Eager extensions activated
+2024-01-07 09:48:17.817 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-01-07 09:48:17.819 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-01-07 09:48:20.296 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-01-07 09:48:23.820 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-01-07 09:48:34.009 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2024-01-07 09:48:34.322 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-01-07 09:49:13.542 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-01-07 09:58:31.656 [error] [ms-python.python] provider FAILED
+2024-01-07 09:58:31.657 [error] TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/quinn/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:139734
+	at _0x1be708 (/home/quinn/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:152918)
+	at async ve.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:53055)
+2024-01-07 10:07:33.831 [info] ExtensionService#_doActivateExtension sukumo28.wav-preview, startup: false, activationEvent: 'onCustomEditor:wavPreview.audioPreview'
+2024-01-07 10:07:43.207 [info] ExtensionService#_doActivateExtension vscode.media-preview, startup: false, activationEvent: 'onCustomEditor:vscode.audioPreview'
+2024-01-07 10:07:43.234 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-07 10:07:43.265 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-01-07 10:33:26.378 [warning] [Decorations] CAPPING events from decorations provider vscode.git 799
+2024-01-07 10:33:26.418 [warning] [Decorations] CAPPING events from decorations provider vscode.git 799
+2024-01-07 10:33:32.032 [warning] [Decorations] CAPPING events from decorations provider vscode.git 799
+2024-01-07 10:36:00.552 [warning] [Decorations] CAPPING events from decorations provider vscode.git 799
+2024-01-07 10:37:49.123 [warning] [Decorations] CAPPING events from decorations provider vscode.git 799
+2024-01-07 10:37:54.160 [warning] [Decorations] CAPPING events from decorations provider vscode.git 799

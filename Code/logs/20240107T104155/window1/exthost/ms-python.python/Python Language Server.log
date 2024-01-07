@@ -1,0 +1,8 @@
+2024-01-07 10:41:57.413 [info] (Client) Pylance async client (2023.12.1) started with python extension (2023.22.1)
+2024-01-07 10:41:57.775 [info] [Info  - 10:41:57 AM] (70957) Pylance language server 2023.12.1 (pyright a78e2b10) starting
+2024-01-07 10:41:57.775 [info] [Info  - 10:41:57 AM] (70957) Server root directory: /home/quinn/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist
+2024-01-07 10:41:57.775 [info] [Info  - 10:41:57 AM] (70957) Starting service instance "tts"
+2024-01-07 10:41:57.802 [info] [Info  - 10:41:57 AM] (70957) Setting pythonPath for service "tts": "/bin/python"
+2024-01-07 10:41:57.802 [info] [Info  - 10:41:57 AM] (70957) Setting environmentName for service "tts": "3.12.1 (global)"
+2024-01-07 10:41:57.827 [info] [Info  - 10:41:57 AM] (70957) Assuming Python version 3.12
+2024-01-07 10:41:57.863 [info] [Info  - 10:41:57 AM] (70957) Found 1 source file

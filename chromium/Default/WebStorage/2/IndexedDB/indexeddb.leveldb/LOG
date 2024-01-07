@@ -1,0 +1,14 @@
+2024/01/07-11:59:44.231 1f4a Reusing MANIFEST /home/quinn/.config/chromium/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/01/07-11:59:44.231 1f4a Recovering log #4
+2024/01/07-11:59:44.231 1f4a Reusing old log /home/quinn/.config/chromium/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/000004.log 
+2024/01/07-11:59:44.239 1f4f Level-0 table #8: started
+2024/01/07-11:59:44.240 1f4f Level-0 table #8: 12194 bytes OK
+2024/01/07-11:59:44.242 1f4f Delete type=0 #4
+2024/01/07-11:59:44.242 1f4a Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/01/07-11:59:44.242 1f4a Manual compaction at level-1 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xe0\xd91O\xcexB\x00\x03\x00\x00\x00\x00\x00\x00.@' @ 806 : 0
+2024/01/07-11:59:44.242 1f4a Compacting 1@1 + 1@2 files
+2024/01/07-11:59:44.243 1f4a Generated table #9@1: 42 keys, 1097 bytes
+2024/01/07-11:59:44.243 1f4a Compacted 1@1 + 1@2 files => 1097 bytes
+2024/01/07-11:59:44.245 1f4a compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/01/07-11:59:44.245 1f4a Delete type=2 #8
+2024/01/07-11:59:44.245 1f4a Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xe0\xd91O\xcexB\x00\x03\x00\x00\x00\x00\x00\x00.@' @ 806 : 0 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,40 @@
+2024-01-07 09:48:34.268 [info] Experiment 'pythonaacf' is active
+2024-01-07 09:48:34.268 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-01-07 09:48:34.268 [info] Experiment 'pythonREPLSmartSend' is active
+2024-01-07 09:48:34.268 [info] Experiment 'pythonTestAdapter' is active
+2024-01-07 09:48:34.296 [info] Default formatter is set to null for workspace /home/quinn/Desktop/programming/tts
+2024-01-07 09:48:34.312 [info] Test server listening.
+2024-01-07 09:48:34.318 [info] > conda info --json
+2024-01-07 09:48:34.550 [info] > /usr/share/anaconda/bin/conda info --json
+2024-01-07 09:48:34.554 [info] Found: /bin/python --> /bin/python3.12
+2024-01-07 09:48:34.554 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-07 09:48:34.554 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-07 09:48:34.554 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-07 09:48:34.554 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-07 09:48:34.554 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-07 09:48:34.554 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-07 09:48:34.554 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-07 09:48:34.555 [info] Found: /bin/python3 --> /bin/python3.12
+2024-01-07 09:48:34.557 [info] Found: /bin/python3.12 --> /bin/python3.12
+2024-01-07 09:48:34.571 [info] Found: /usr/bin/python --> /usr/bin/python3.12
+2024-01-07 09:48:34.571 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2024-01-07 09:48:34.571 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2024-01-07 09:48:34.586 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-07 09:48:34.594 [info] > /usr/bin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-07 09:48:34.640 [info] Python interpreter path: /bin/python
+2024-01-07 09:48:34.641 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-07 09:48:35.570 [info] Starting Pylance language server.
+2024-01-07 09:48:35.756 [info] > ./.venv/bin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-07 09:48:37.955 [info] Discover tests for workspace name: tts - uri: /home/quinn/Desktop/programming/tts
+2024-01-07 09:48:37.955 [info] Python interpreter path: ./.venv/bin/python
+2024-01-07 09:49:03.451 [info] Discover tests for workspace name: tts - uri: /home/quinn/Desktop/programming/tts/main.py
+2024-01-07 09:50:25.333 [info] Discover tests for workspace name: tts - uri: /home/quinn/Desktop/programming/tts/main.py
+2024-01-07 09:56:48.105 [info] Discover tests for workspace name: tts - uri: /home/quinn/Desktop/programming/tts/main.py
+2024-01-07 09:57:18.107 [info] Discover tests for workspace name: tts - uri: /home/quinn/Desktop/programming/tts/main.py
+2024-01-07 09:57:26.916 [info] Discover tests for workspace name: tts - uri: /home/quinn/Desktop/programming/tts
+2024-01-07 09:57:26.916 [info] Python interpreter path: /bin/python
+2024-01-07 09:58:32.654 [info] Discover tests for workspace name: tts - uri: /home/quinn/Desktop/programming/tts/main.py
+2024-01-07 09:58:38.744 [info] Discover tests for workspace name: tts - uri: /home/quinn/Desktop/programming/tts/main.py
+2024-01-07 10:07:43.558 [info] Discover tests for workspace name: undefined - uri: /home/quinn/.config/Code/User/settings.json
+2024-01-07 10:11:50.029 [info] Discover tests for workspace name: tts - uri: /home/quinn/Desktop/programming/tts/main.py
+2024-01-07 10:30:37.111 [info] Discover tests for workspace name: tts - uri: /home/quinn/Desktop/programming/tts/main.py

@@ -2,8 +2,4 @@
 WALLPAPER_DIR="/home/quinn/wallpapers"
 SELECTED=$(ls $WALLPAPER_DIR | rofi -dmenu)
 # Set wallpaper
-feh --bg-scale "$WALLPAPER_DIR/$SELECTED"
-SET_WALLPAPER_SCRIPT="/home/quinn/.config/i3/wallpaper-set.sh"
-# Set wallpaper as startup wallpaper
-echo "#!/usr/bin/env bash" > $SET_WALLPAPER_SCRIPT 
-echo "feh --bg-scale '$WALLPAPER_DIR/$SELECTED'" >> $SET_WALLPAPER_SCRIPT
+wal -i "$WALLPAPER_DIR/$SELECTED"

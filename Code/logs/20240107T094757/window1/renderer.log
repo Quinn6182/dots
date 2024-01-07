@@ -1,0 +1,84 @@
+2024-01-07 09:47:58.146 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-01-07 09:47:58.302 [info] Started local extension host with pid 62668.
+2024-01-07 09:47:58.330 [info] Started initializing default profile extensions in extensions installation folder. file:///home/quinn/.vscode/extensions
+2024-01-07 09:47:58.576 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/quinn/.vscode/extensions
+2024-01-07 09:48:01.109 [info] [perf] Render performance baseline is 16ms
+2024-01-07 09:48:17.394 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-01-07 09:48:17.516 [info] Started local extension host with pid 62878.
+2024-01-07 09:48:20.145 [info] [perf] Render performance baseline is 17ms
+2024-01-07 09:58:31.659 [error] Cannot read properties of undefined (reading 'data'): TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/quinn/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:139734
+	at _0x1be708 (/home/quinn/.vscode/extensions/ms-python.vscode-pylance-2023.12.1/dist/extension.bundle.js:1:152918)
+	at async ve.provideCompletionItems (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:53055)
+2024-01-07 10:09:06.038 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2024-01-07 10:09:07.405 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2024-01-07 10:09:13.903 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2024-01-07 10:09:17.560 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2024-01-07 10:09:21.554 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2024-01-07 10:09:26.389 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2024-01-07 10:09:28.354 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2024-01-07 10:09:29.794 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2024-01-07 10:26:04.176 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2024-01-07 10:26:05.401 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2024-01-07 10:26:06.634 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2024-01-07 10:26:08.627 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2024-01-07 10:26:09.660 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2024-01-07 10:26:11.055 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2024-01-07 10:26:13.262 [error] Illegal value for lineNumber: Error: Illegal value for lineNumber
+    at q.getLineContent (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:730:4396)
+    at o.update (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:681:81713)
+    at P.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:744:53935)
+2024-01-07 10:33:18.258 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-01-07 10:40:47.458 [error] Error: The file is not displayed in the text editor because it is very large (1.03GB).
+    at k (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:148:781)
+    at ee (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:769:59199)
+    at T (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:769:53687)
+    at M.fc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2148:24960)
+    at M.setInput (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2148:24179)
+    at async b.S (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2146:23046)
+    at async b.L (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2146:21637)
+    at async b.openEditor (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2146:20603)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2275:23005
+    at async o.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2345:46962)

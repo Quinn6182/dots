@@ -1,0 +1,106 @@
+2024-01-07 09:47:58.871 [info] Log level: Info
+2024-01-07 09:47:58.871 [info] Validating found git in: "git"
+2024-01-07 09:47:58.871 [info] Using git "2.43.0" from "git"
+2024-01-07 09:48:20.342 [info] Log level: Info
+2024-01-07 09:48:20.342 [info] Validating found git in: "git"
+2024-01-07 09:48:20.342 [info] Using git "2.43.0" from "git"
+2024-01-07 09:48:20.342 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-07 09:48:20.342 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-01-07 09:48:23.778 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-07 09:48:23.778 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-01-07 09:48:33.946 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-07 09:48:33.946 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-01-07 09:48:33.987 [info] > git rev-parse --show-toplevel [0ms]
+2024-01-07 09:48:33.987 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-01-07 09:48:59.640 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-07 09:48:59.640 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-01-07 09:56:28.660 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-07 09:56:28.660 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-01-07 09:57:10.053 [info] > git rev-parse --show-toplevel [4ms]
+2024-01-07 09:57:10.053 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-01-07 09:57:10.155 [info] > git rev-parse --show-toplevel [0ms]
+2024-01-07 09:57:10.155 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-01-07 09:57:11.524 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-07 09:57:11.524 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-01-07 10:07:43.341 [info] > git rev-parse --show-toplevel [24ms]
+2024-01-07 10:07:43.341 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-01-07 10:09:04.358 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-07 10:09:04.358 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-01-07 10:23:56.428 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-07 10:23:56.428 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-01-07 10:31:49.926 [info] > git rev-parse --show-toplevel [2ms]
+2024-01-07 10:31:49.933 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-01-07 10:31:49.939 [info] Open repository: /home/quinn/Desktop/programming/tts/bark
+2024-01-07 10:31:49.953 [info] > git config --get commit.template [1ms]
+2024-01-07 10:31:49.960 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-07 10:31:49.966 [warning] ENOENT: no such file or directory, open '/home/quinn/Desktop/programming/tts/bark/.git/refs/remotes/origin/main'
+2024-01-07 10:31:49.966 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2024-01-07 10:31:49.986 [info] > git status -z -uall [14ms]
+2024-01-07 10:31:50.000 [info] > git config --get commit.template [1ms]
+2024-01-07 10:31:50.008 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-07 10:31:50.013 [warning] ENOENT: no such file or directory, open '/home/quinn/Desktop/programming/tts/bark/.git/refs/remotes/origin/main'
+2024-01-07 10:31:50.014 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2024-01-07 10:31:50.032 [info] > git status -z -uall [13ms]
+2024-01-07 10:32:03.495 [info] > git config --get commit.template [1ms]
+2024-01-07 10:32:03.503 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-07 10:32:03.508 [warning] ENOENT: no such file or directory, open '/home/quinn/Desktop/programming/tts/bark/.git/refs/remotes/origin/main'
+2024-01-07 10:32:03.509 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-07 10:32:03.527 [info] > git status -z -uall [13ms]
+2024-01-07 10:32:37.159 [info] > git config --get commit.template [7ms]
+2024-01-07 10:32:37.160 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-07 10:32:37.165 [warning] ENOENT: no such file or directory, open '/home/quinn/Desktop/programming/tts/bark/.git/refs/remotes/origin/main'
+2024-01-07 10:32:37.166 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-07 10:32:37.184 [info] > git status -z -uall [13ms]
+2024-01-07 10:33:20.987 [warning] ENOENT: no such file or directory, open '/home/quinn/Desktop/programming/tts/bark/.git/HEAD'
+2024-01-07 10:33:20.999 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/quinn/Desktop/programming/tts/bark/.git/config'
+2024-01-07 10:33:21.014 [warning] ENOENT: no such file or directory, open '/home/quinn/Desktop/programming/tts/bark/.git/HEAD'
+2024-01-07 10:33:21.027 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/quinn/Desktop/programming/tts/bark/.git/config'
+2024-01-07 10:33:26.328 [info] > git rev-parse --show-toplevel [1ms]
+2024-01-07 10:33:26.337 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-01-07 10:33:26.340 [info] Open repository: /home/quinn/Desktop/programming/tts/bark
+2024-01-07 10:33:26.349 [info] > git config --get commit.template [1ms]
+2024-01-07 10:33:26.357 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-07 10:33:26.363 [warning] ENOENT: no such file or directory, open '/home/quinn/Desktop/programming/tts/bark/.git/refs/remotes/origin/main'
+2024-01-07 10:33:26.364 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-07 10:33:26.373 [info] > git status -z -uall [3ms]
+2024-01-07 10:33:26.392 [info] > git config --get commit.template [4ms]
+2024-01-07 10:33:26.400 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-07 10:33:26.406 [warning] ENOENT: no such file or directory, open '/home/quinn/Desktop/programming/tts/bark/.git/refs/remotes/origin/main'
+2024-01-07 10:33:26.407 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-07 10:33:26.413 [info] > git status -z -uall [1ms]
+2024-01-07 10:33:29.693 [info] > git check-ignore -v -z --stdin [1ms]
+2024-01-07 10:33:31.513 [info] > git check-ignore -v -z --stdin [1ms]
+2024-01-07 10:33:32.010 [info] > git config --get commit.template [8ms]
+2024-01-07 10:33:32.011 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-07 10:33:32.018 [warning] ENOENT: no such file or directory, open '/home/quinn/Desktop/programming/tts/bark/.git/refs/remotes/origin/main'
+2024-01-07 10:33:32.019 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-07 10:33:32.026 [info] > git status -z -uall [1ms]
+2024-01-07 10:36:00.531 [info] > git config --get commit.template [8ms]
+2024-01-07 10:36:00.531 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-07 10:36:00.537 [warning] ENOENT: no such file or directory, open '/home/quinn/Desktop/programming/tts/bark/.git/refs/remotes/origin/main'
+2024-01-07 10:36:00.538 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-07 10:36:00.547 [info] > git status -z -uall [3ms]
+2024-01-07 10:37:17.975 [info] > git check-ignore -v -z --stdin [1ms]
+2024-01-07 10:37:38.671 [info] > git check-ignore -v -z --stdin [1ms]
+2024-01-07 10:37:49.096 [info] > git config --get commit.template [1ms]
+2024-01-07 10:37:49.105 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-01-07 10:37:49.111 [warning] ENOENT: no such file or directory, open '/home/quinn/Desktop/programming/tts/bark/.git/refs/remotes/origin/main'
+2024-01-07 10:37:49.112 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-07 10:37:49.119 [info] > git status -z -uall [2ms]
+2024-01-07 10:37:54.141 [info] > git config --get commit.template [7ms]
+2024-01-07 10:37:54.142 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-01-07 10:37:54.147 [warning] ENOENT: no such file or directory, open '/home/quinn/Desktop/programming/tts/bark/.git/refs/remotes/origin/main'
+2024-01-07 10:37:54.148 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-01-07 10:37:54.155 [info] > git status -z -uall [1ms]

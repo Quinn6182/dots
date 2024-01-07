@@ -1,0 +1,5 @@
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-314ad0d3-cd3c-47df-9bc1-8065843355aa]
+ordering=applications:nobara-sync.desktop,applications:systemsettings.desktop,applications:yumex-dnf.desktop,applications:org.kde.discover.desktop,org.kde.dolphin.desktop,preferred://browser
+
+[Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
+ordering=applications:nobara-sync.desktop,applications:systemsettings.desktop,applications:yumex-dnf.desktop,applications:org.kde.discover.desktop,org.kde.dolphin.desktop,preferred://browser
