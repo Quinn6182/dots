@@ -1,3 +1,3 @@
-2024/01/07-07:53:44.449 cb0 Reusing MANIFEST /home/quinn/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2024/01/07-07:53:44.453 cb0 Recovering log #3
-2024/01/07-07:53:44.453 cb0 Reusing old log /home/quinn/.config/chromium/Default/Sync Data/LevelDB/000003.log 
+2024/01/07-12:23:25.995 fba Reusing MANIFEST /home/quinn/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/01/07-12:23:25.997 fba Recovering log #3
+2024/01/07-12:23:25.997 fba Reusing old log /home/quinn/.config/chromium/Default/Sync Data/LevelDB/000003.log 

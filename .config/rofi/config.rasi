@@ -103,4 +103,4 @@ element-icon {
 element-text {
     text-color: inherit;
 }
-@theme "/home/quinn/.config/rofi/nord.rasi"
+@import "~/.cache/wal/colors-rofi-dark"

@@ -1,4 +1,0 @@
-2024-01-07 11:51:01.409 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'registerIssueDataProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
-2024-01-07 11:51:01.448 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/quinn/.config/gtk-3.0/settings.ini","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
-2024-01-07 11:51:01.682 [info] Started local extension host with pid 1578.
-2024-01-07 11:51:04.454 [info] [perf] Render performance baseline is 59ms
