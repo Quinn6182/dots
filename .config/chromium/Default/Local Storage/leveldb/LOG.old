@@ -1,0 +1,6 @@
+2024/01/07-07:53:44.454 4 Reusing MANIFEST /home/quinn/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/01/07-07:53:44.458 4 Recovering log #13
+2024/01/07-07:53:44.459 4 Reusing old log /home/quinn/.config/chromium/Default/Local Storage/leveldb/000013.log 
+2024/01/07-08:10:56.071 6 Level-0 table #17: started
+2024/01/07-08:10:56.075 6 Level-0 table #17: 18735 bytes OK
+2024/01/07-08:10:56.079 6 Delete type=0 #13

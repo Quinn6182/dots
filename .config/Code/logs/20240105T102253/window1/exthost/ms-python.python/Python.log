@@ -1,0 +1,160 @@
+2024-01-05 10:23:19.363 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-01-05 10:23:19.363 [info] Experiment 'pythonREPLSmartSend' is active
+2024-01-05 10:23:19.363 [info] Experiment 'pythonTestAdapter' is active
+2024-01-05 10:23:19.403 [info] Default formatter is set to null for workspace /home/quinn/programming/minecraft/bots
+2024-01-05 10:23:19.415 [info] Test server listening.
+2024-01-05 10:23:19.421 [info] > conda info --json
+2024-01-05 10:23:19.685 [info] Found: /bin/python --> /bin/python3.11
+2024-01-05 10:23:19.685 [info] Found: /bin/python3 --> /bin/python3.11
+2024-01-05 10:23:19.686 [info] Found: /bin/python3.11 --> /bin/python3.11
+2024-01-05 10:23:19.689 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-05 10:23:19.689 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-05 10:23:19.689 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-05 10:23:19.689 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-05 10:23:19.689 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-05 10:23:19.689 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-05 10:23:19.689 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-01-05 10:23:19.699 [info] Found: /sbin/python --> /sbin/python3.11
+2024-01-05 10:23:19.699 [info] Found: /sbin/python3 --> /sbin/python3.11
+2024-01-05 10:23:19.699 [info] Found: /sbin/python3.11 --> /sbin/python3.11
+2024-01-05 10:23:19.701 [info] Found: /usr/bin/python --> /usr/bin/python3.11
+2024-01-05 10:23:19.701 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2024-01-05 10:23:19.701 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2024-01-05 10:23:19.711 [info] Found: /usr/sbin/python --> /usr/sbin/python3.11
+2024-01-05 10:23:19.711 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.11
+2024-01-05 10:23:19.711 [info] Found: /usr/sbin/python3.11 --> /usr/sbin/python3.11
+2024-01-05 10:23:19.721 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-05 10:23:19.729 [info] > /sbin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-05 10:23:19.748 [info] > /usr/bin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-05 10:23:19.755 [info] > /usr/sbin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-05 10:23:19.802 [info] Python interpreter path: /bin/python
+2024-01-05 10:23:19.804 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-05 10:23:20.901 [info] Starting Pylance language server.
+2024-01-05 10:23:50.830 [info] Discover tests for workspace name: undefined - uri: /home/quinn/.config/Code/User/settings.json
+2024-01-05 10:23:55.107 [info] Discover tests for workspace name: undefined - uri: /home/quinn/.config/Code/User/settings.json
+2024-01-05 10:24:00.791 [info] Discover tests for workspace name: undefined - uri: /home/quinn/.config/Code/User/settings.json
+2024-01-05 10:24:48.404 [info] Discover tests for workspace name: undefined - uri: /home/quinn/.config/Code/User/settings.json
+2024-01-05 10:25:40.413 [info] Discover tests for workspace name: undefined - uri: /home/quinn/.config/Code/User/settings.json
+2024-01-05 10:26:12.375 [info] Discover tests for workspace name: undefined - uri: /home/quinn/.config/Code/User/settings.json
+2024-01-05 10:26:14.291 [info] Discover tests for workspace name: undefined - uri: /home/quinn/.config/Code/User/settings.json
+2024-01-05 10:26:27.279 [info] Discover tests for workspace name: undefined - uri: /home/quinn/.config/Code/User/settings.json
+2024-01-05 10:26:32.633 [info] Discover tests for workspace name: undefined - uri: /home/quinn/.config/Code/User/settings.json
+2024-01-05 10:26:36.749 [info] Discover tests for workspace name: undefined - uri: /home/quinn/.config/Code/User/settings.json
+2024-01-05 10:26:41.240 [info] Discover tests for workspace name: undefined - uri: /home/quinn/.config/Code/User/settings.json
+2024-01-05 10:27:04.833 [info] > ./bin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-05 10:27:25.471 [info] > ./.venv/bin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-05 10:27:29.197 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots
+2024-01-05 10:27:29.198 [info] Python interpreter path: ./.venv/bin/python
+2024-01-05 10:28:11.939 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 10:28:16.879 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 10:29:09.335 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 10:29:19.615 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 10:31:05.789 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 10:31:30.492 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 10:41:48.808 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 10:42:18.255 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 10:43:00.282 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 10:44:43.433 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 10:45:39.697 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 10:48:43.595 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 10:49:13.818 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 10:49:29.256 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 10:50:15.989 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 10:50:32.801 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/useful.py
+2024-01-05 10:50:36.976 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 10:50:51.470 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 10:52:10.911 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/useful.py
+2024-01-05 10:52:53.549 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 10:57:06.485 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/useful.py
+2024-01-05 10:57:12.103 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/useful.py
+2024-01-05 10:57:22.452 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/useful.py
+2024-01-05 10:58:12.653 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 10:59:38.370 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/useful.py
+2024-01-05 10:59:42.661 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/useful.py
+2024-01-05 11:00:50.327 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/useful.py
+2024-01-05 11:02:27.598 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/useful.py
+2024-01-05 11:02:45.559 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/useful.py
+2024-01-05 11:02:51.846 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 11:03:10.878 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 11:03:41.034 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 11:04:55.050 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 11:04:59.168 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/useful.py
+2024-01-05 11:05:07.204 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 11:05:12.487 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 11:05:24.299 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/useful.py
+2024-01-05 11:10:13.280 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 11:10:23.020 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 11:11:34.357 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 11:11:39.832 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 11:13:02.561 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 11:13:04.044 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 11:14:01.045 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 11:14:28.740 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 11:16:20.790 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 11:17:00.500 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 11:18:24.396 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/useful.py
+2024-01-05 11:18:32.482 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 11:18:38.871 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 11:18:50.332 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 12:01:45.017 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 12:02:44.921 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 12:03:29.933 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 12:05:07.922 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 12:05:49.894 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 12:05:51.020 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 12:07:46.805 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 12:08:54.426 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 12:08:57.393 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 12:09:11.273 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 12:09:35.178 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 12:10:42.189 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 12:12:24.990 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 12:12:43.856 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 12:12:53.639 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 12:12:59.288 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/lodestone_bot.py
+2024-01-05 12:44:04.879 [info] > ./.venv/bin/python -I ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.22.1/pythonFiles/interpreterInfo.py
+2024-01-05 12:45:48.381 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 12:45:59.898 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 12:46:35.762 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 12:47:16.153 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 12:47:47.901 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 12:48:46.187 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 12:48:49.243 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 12:48:57.196 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 12:50:37.969 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 12:50:54.385 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 12:52:02.181 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 12:52:17.263 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 12:53:43.522 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 12:53:45.445 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 12:54:08.426 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 12:54:12.138 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 12:54:17.446 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 12:54:35.457 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 12:56:21.165 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 12:56:38.197 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 12:57:55.663 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 12:58:09.126 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 12:58:25.903 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 12:58:35.815 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 13:00:05.435 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 13:00:20.966 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-05 13:00:22.640 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-06 10:49:05.662 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-06 10:49:20.729 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-06 10:49:29.214 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-06 10:49:35.001 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-06 10:50:35.249 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-06 10:51:24.002 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-06 10:52:09.848 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-06 10:52:18.163 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-06 10:52:28.889 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-06 10:53:27.331 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-06 10:53:32.191 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-06 10:54:26.308 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-06 10:55:22.198 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-06 10:56:09.494 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-06 10:56:14.105 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-06 10:56:29.829 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-06 10:57:38.601 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
+2024-01-06 10:59:54.171 [info] Discover tests for workspace name: bots - uri: /home/quinn/programming/minecraft/bots/main.py
